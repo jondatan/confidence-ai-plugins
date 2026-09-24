@@ -103,7 +103,7 @@ Display at START and after EACH step completes (updating status):
 ────────────────────────────────────────────────────────────
 ```
 
-Use `●` for completed, `▶` for in-progress, `○` for pending. Re-display the full tracker after every step transition.
+Use `●` for completed, `▶` for in-progress, `○` for pending. Re-display the full tracker after every step transition. After the user chooses a staging provider in Step 5, update the Step 6 label to show which one (e.g., `Configure staging (S3)` or `Configure staging (ADLS)`).
 
 ---
 
